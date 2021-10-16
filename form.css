@@ -1,0 +1,110 @@
+body
+{
+    background-color: white;
+}
+#mainheading
+{
+    width: 100%;
+    background-color: tomato;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+}
+.logincontent
+{
+    margin: 10px;
+    color: blue;
+}
+.input
+{
+    margin: 10px;
+}
+.submit
+{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    margin: 10px;
+}
+.logindiv
+{
+    margin-top: 20px;
+    background-color: rgb(253, 244, 227);
+    margin-left: 4%;
+    width: 20%;
+    float: left;
+}
+.loginhead
+{
+    text-align: center;
+    margin: 10px;
+}
+#registerdiv
+{
+    margin-top: 20px;
+    background-color: rgb(253, 244, 227);
+    margin-left: 2%;
+    width: 70%;
+    float: left;
+}
+#reghead
+{
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.headdiv
+{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px;
+}
+.headdiv1
+{
+    font-size: 18px;
+    font-weight: bold;
+    clear: both;
+    padding-top: 30px;
+    margin: 10px;
+}
+.regcontent
+{
+    margin: 10px;
+    color: blue;
+}
+.reginput
+{
+    
+    margin: 10px;
+}
+.rlinediv1
+{
+    clear: both;
+    margin-left: 10px; 
+    float: left;
+}
+.rlinediv2
+{
+    float: left; 
+    margin-left:25%;
+}
+.rlinediv3
+{
+    margin-left: 10px; 
+    float: left;
+}
+#regsubmit
+{
+    clear: both;
+    text-align: center;
+    margin: 30px;
+    padding-top: 30px;
+}
+.reset
+{
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+}
